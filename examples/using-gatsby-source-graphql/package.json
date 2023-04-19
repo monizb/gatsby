@@ -13,7 +13,7 @@
     "gatsby": "^2.0.0",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-netlify": "^2.0.0",
-    "gatsby-plugin-sharp": "^2.0.30",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-source-filesystem": "^2.0.27",
     "gatsby-source-graphql": "^2.0.0",
     "gatsby-transformer-sharp": "^2.1.17",
