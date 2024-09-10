@@ -10,7 +10,6 @@
     "format": "prettier --write \"src/**/*.js\"",
     "lint": "eslint **/*.{js,jsx} --quiet -o linterrors.txt --ignore-path .gitignore"
   },
-  
   "keywords": [
     "gatsby",
     "mobx"
